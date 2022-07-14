@@ -53,7 +53,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
  return removeDecimal
     
 }
-// assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 
 // ========================
